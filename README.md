@@ -1,3 +1,2 @@
 I’m @onezerus, a Fullstack Developer...
-Over the last year im working with PHP, Python, React and Django. also work with ssqlserver, mysql and docker.
-My thoughts for the next few months are study Kotlin, basically work with Android(Mobile). 
+My stacks are JS, TS, C#, PHP, Python, frameworks like React/Node.
